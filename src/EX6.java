@@ -12,7 +12,7 @@ public class EX6 {
         while (i < x) {
             i = i + 1;
             y = y + i;
-            System.out.println(i);
+            System.out.print(i);
             System.out.println(y);
         }
         /*
